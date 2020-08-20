@@ -1,0 +1,15 @@
+
+
+
+int main()
+{
+    int s1,s2;
+    printf("sayi gir:");scanf("%d%d",&s1,&s2);
+
+    printf("ebob:%d",ebobbulma(s1,s2));
+}
+
+
+
+
+
